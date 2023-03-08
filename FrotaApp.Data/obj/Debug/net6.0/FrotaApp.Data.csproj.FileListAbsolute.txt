@@ -1,0 +1,17 @@
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\bin\Debug\net6.0\FrotaApp.Data.deps.json
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\bin\Debug\net6.0\FrotaApp.Data.runtimeconfig.json
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\bin\Debug\net6.0\FrotaApp.Data.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\bin\Debug\net6.0\FrotaApp.Data.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\bin\Debug\net6.0\FrotaApp.Domain.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\bin\Debug\net6.0\FrotaApp.Domain.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.AssemblyInfo.cs
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.csproj.CopyComplete
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\refint\FrotaApp.Data.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\FrotaApp.Data.genruntimeconfig.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Data\obj\Debug\net6.0\ref\FrotaApp.Data.dll

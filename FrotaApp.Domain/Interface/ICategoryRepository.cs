@@ -9,7 +9,7 @@ namespace FrotaApp.Domain.Interface
 {
     public interface ICategoryRepository
     {
-        public Task<List<Category>> GetCategory();
+        public Task<List<Category>> GetCategories();
         public Task<int> AddCategory(Category category);
     }
 }

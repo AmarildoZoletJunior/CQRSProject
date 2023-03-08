@@ -1,0 +1,15 @@
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\bin\Debug\net6.0\FrotaApp.Application.deps.json
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\bin\Debug\net6.0\FrotaApp.Application.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\bin\Debug\net6.0\FrotaApp.Application.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\bin\Debug\net6.0\FrotaApp.Domain.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\bin\Debug\net6.0\FrotaApp.Domain.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.AssemblyInfo.cs
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.csproj.CopyComplete
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\refint\FrotaApp.Application.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\FrotaApp.Application.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\obj\Debug\net6.0\ref\FrotaApp.Application.dll

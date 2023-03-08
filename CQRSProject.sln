@@ -3,9 +3,53 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrotaApp.API", "FrotaApp.API", "{8E4F4895-0913-4B27-BE82-6DBFF0A1A8A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrotaApp.Domain", "FrotaApp.Domain", "{3EEF103B-620A-4E8E-B26A-AB795C122E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaApp.API", "FrotaApp.API\FrotaApp.API.csproj", "{CAF7D679-EF6A-49DB-A3D8-CDB2A377EAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaApp.Domain", "FrotaApp.Domain\FrotaApp.Domain.csproj", "{92B7C780-6806-4E55-B1E0-0F1279A6AF8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrotaApp.Application", "FrotaApp.Application", "{837A2736-EBFE-44FB-B0EA-3280CE687216}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrotaApp.Infra", "FrotaApp.Infra", "{59F93FAD-2C47-47BA-A270-8DB5C1DEBAF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaApp.Data", "FrotaApp.Data\FrotaApp.Data.csproj", "{2347DA30-3BAF-443B-830F-F22C876C52EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaApp.Application", "FrotaApp.Application\FrotaApp.Application.csproj", "{2CE64CCF-1861-40AF-B258-F8AFE99DEA4E}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF7D679-EF6A-49DB-A3D8-CDB2A377EAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF7D679-EF6A-49DB-A3D8-CDB2A377EAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF7D679-EF6A-49DB-A3D8-CDB2A377EAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF7D679-EF6A-49DB-A3D8-CDB2A377EAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B7C780-6806-4E55-B1E0-0F1279A6AF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B7C780-6806-4E55-B1E0-0F1279A6AF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B7C780-6806-4E55-B1E0-0F1279A6AF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B7C780-6806-4E55-B1E0-0F1279A6AF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2347DA30-3BAF-443B-830F-F22C876C52EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2347DA30-3BAF-443B-830F-F22C876C52EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2347DA30-3BAF-443B-830F-F22C876C52EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2347DA30-3BAF-443B-830F-F22C876C52EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE64CCF-1861-40AF-B258-F8AFE99DEA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE64CCF-1861-40AF-B258-F8AFE99DEA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE64CCF-1861-40AF-B258-F8AFE99DEA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE64CCF-1861-40AF-B258-F8AFE99DEA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CAF7D679-EF6A-49DB-A3D8-CDB2A377EAB9} = {8E4F4895-0913-4B27-BE82-6DBFF0A1A8A5}
+		{92B7C780-6806-4E55-B1E0-0F1279A6AF8A} = {3EEF103B-620A-4E8E-B26A-AB795C122E98}
+		{2347DA30-3BAF-443B-830F-F22C876C52EA} = {59F93FAD-2C47-47BA-A270-8DB5C1DEBAF1}
+		{2CE64CCF-1861-40AF-B258-F8AFE99DEA4E} = {837A2736-EBFE-44FB-B0EA-3280CE687216}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {520AE6A0-6056-4BAF-9AA2-F6F00929818E}

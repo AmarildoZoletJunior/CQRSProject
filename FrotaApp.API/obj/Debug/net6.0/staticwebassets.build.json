@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VosKb1ej4N0gskcItZqkCbfwdX2jNXUHVNJr13BJuMU=",
+  "Source": "FrotaApp.API",
+  "BasePath": "_content/FrotaApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
