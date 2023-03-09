@@ -1,0 +1,12 @@
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\bin\Debug\net6.0\FrotaApp.Application.Output.deps.json
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\bin\Debug\net6.0\FrotaApp.Application.Output.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\bin\Debug\net6.0\FrotaApp.Application.Output.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\FrotaApp.Application.Output.csproj.AssemblyReference.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\FrotaApp.Application.Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\FrotaApp.Application.Output.AssemblyInfoInputs.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\FrotaApp.Application.Output.AssemblyInfo.cs
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\FrotaApp.Application.Output.csproj.CoreCompileInputs.cache
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\FrotaApp.Application.Output.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\refint\FrotaApp.Application.Output.dll
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\FrotaApp.Application.Output.pdb
+C:\Users\Amarildo\Desktop\NetProject\CQRSProject\CQRSProject\FrotaApp.Application\FrotaApp.Application.Output\obj\Debug\net6.0\ref\FrotaApp.Application.Output.dll

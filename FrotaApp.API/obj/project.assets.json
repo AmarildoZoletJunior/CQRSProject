@@ -1297,19 +1297,6 @@
           }
         }
       },
-      "FrotaApp.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FrotaApp.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/FrotaApp.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FrotaApp.Application.dll": {}
-        }
-      },
       "FrotaApp.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3858,11 +3845,6 @@
         "version.txt"
       ]
     },
-    "FrotaApp.Application/1.0.0": {
-      "type": "project",
-      "path": "../FrotaApp.Application/FrotaApp.Application.csproj",
-      "msbuildProject": "../FrotaApp.Application/FrotaApp.Application.csproj"
-    },
     "FrotaApp.Data/1.0.0": {
       "type": "project",
       "path": "../FrotaApp.Data/FrotaApp.Data.csproj",
@@ -3876,7 +3858,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "FrotaApp.Application >= 1.0.0",
       "FrotaApp.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.3",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.3",
@@ -3915,9 +3896,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Amarildo\\Desktop\\NetProject\\CQRSProject\\CQRSProject\\FrotaApp.Application\\FrotaApp.Application.csproj": {
-              "projectPath": "C:\\Users\\Amarildo\\Desktop\\NetProject\\CQRSProject\\CQRSProject\\FrotaApp.Application\\FrotaApp.Application.csproj"
-            },
             "C:\\Users\\Amarildo\\Desktop\\NetProject\\CQRSProject\\CQRSProject\\FrotaApp.Data\\FrotaApp.Data.csproj": {
               "projectPath": "C:\\Users\\Amarildo\\Desktop\\NetProject\\CQRSProject\\CQRSProject\\FrotaApp.Data\\FrotaApp.Data.csproj"
             }

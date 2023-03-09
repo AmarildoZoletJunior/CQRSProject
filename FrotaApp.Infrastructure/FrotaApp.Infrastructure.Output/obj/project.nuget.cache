@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fB83aUX/Rz0d5ix+PwO57mfKAOZ3Rgn2cSLm0zINaPnYHNNYPg2UqteBWPViWQV8S6HuejZp8JHKefBRGlxtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amarildo\\Desktop\\NetProject\\CQRSProject\\CQRSProject\\FrotaApp.Infrastructure\\FrotaApp.Infrastructure.Output\\FrotaApp.Infrastructure.Output.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amarildo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FrotaApp.Application\FrotaApp.Application.csproj" />
     <ProjectReference Include="..\FrotaApp.Data\FrotaApp.Data.csproj" />
   </ItemGroup>
 

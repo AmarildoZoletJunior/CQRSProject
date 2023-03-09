@@ -1,7 +1,5 @@
-﻿N using FluentValidation;
+﻿using FluentValidation;
 using FluentValidation.Results;
-using FrotaApp.Application.DTOs.ClassDTOs;
-using FrotaApp.Application.Validators;
 using FrotaApp.Data.Repository;
 using FrotaApp.Domain.Entities;
 using FrotaApp.Domain.Interface;
@@ -23,7 +21,7 @@ namespace FrotaApp.API.Controllers
         [HttpPost]
         public async Task<IActionResult> PostTesteAsync(VehicleDTO vehicleDto)
         {
-            var Vehicle = VehicleDTO.MapToEntity(vehicleDto);
+            var Vehicle = FrotaApp.Application.VehicleDTO.MapToEntity(vehicleDto);
             var validator = new VehicleValidator(_vehicleRepository);
             ValidationResult result = await validator.ValidateAsync(vehicleDto);
             if (!result.IsValid)
